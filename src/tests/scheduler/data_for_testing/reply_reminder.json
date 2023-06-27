@@ -1,0 +1,84 @@
+{
+  "ok": true,
+  "messages": [
+    {
+      "client_msg_id": "2ea8071e-ba4a-4687-ab69-e3eeb8fe2c95",
+      "type": "message",
+      "text": "request with thread",
+      "user": "BOGUS_USER_ID1",
+      "ts": "1668676828.814789",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5XHYM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "request with thread"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "BOGUS_TEAM_ID1",
+      "thread_ts": "1668676828.814789",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1668676830.236019",
+      "reply_users": [
+        "BOGUS_USER_ID4"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "bot_id": "B03CPRRFMMK",
+      "type": "message",
+      "text": "You haven't selected the cloud alias, please select one from the following options: • :cloud-pr: PR approval request\n• :cloud-bug: Bug in one of the systems\n• :cloud-help: Need help\n• :cloud-props: A win, something works well\n• :cloud-think: Need to brainstorm about an idea\n• :cloud-random: Random thoughts\n• :cloud-clarify: Need clarification or confirmation\n• :cloud-feature: Feature request\n• :cloud-incident: Something is broken or can't release. Urgent help needed\n",
+      "user": "BOGUS_USER_ID4",
+      "ts": "1668676830.236019",
+      "app_id": "BOGUS_APP_ID",
+      "blocks": [
+        {
+          "type": "section",
+          "block_id": "X7jWV",
+          "text": {
+            "type": "mrkdwn",
+            "text": "You haven't selected the cloud alias, please select one from the following options:",
+            "verbatim": false
+          }
+        },
+        {
+          "type": "section",
+          "block_id": "YTa",
+          "text": {
+            "type": "mrkdwn",
+            "text": "• :cloud-pr: PR approval request\n• :cloud-bug: Bug in one of the systems\n• :cloud-help: Need help\n• :cloud-props: A win, something works well\n• :cloud-think: Need to brainstorm about an idea\n• :cloud-random: Random thoughts\n• :cloud-clarify: Need clarification or confirmation\n• :cloud-feature: Feature request\n• :cloud-incident: Something is broken or can't release. Urgent help needed\n",
+            "verbatim": false
+          }
+        }
+      ],
+      "team": "BOGUS_TEAM_ID1",
+      "bot_profile": {
+        "id": "B03CPRRFMMK",
+        "deleted": false,
+        "name": "cloud-channel-bot",
+        "updated": 1650974563,
+        "app_id": "BOGUS_APP_ID",
+        "icons": {
+          "image_36": "https://avatars.slack-edge.com/2022-04-26/3440752924530_0c056f28865046695469_36.png",
+          "image_48": "https://avatars.slack-edge.com/2022-04-26/3440752924530_0c056f28865046695469_48.png",
+          "image_72": "https://avatars.slack-edge.com/2022-04-26/3440752924530_0c056f28865046695469_72.png"
+        },
+        "team_id": "BOGUS_TEAM_ID1"
+      },
+      "thread_ts": "1668676828.814789",
+      "parent_user_id": "BOGUS_USER_ID1"
+    }
+  ],
+  "has_more": false
+}

@@ -1,0 +1,12 @@
+{
+  "type": "reaction_removed",
+  "user": "BOGUS_USER_ID6",
+  "reaction": "sos",
+  "item": {
+    "type": "message",
+    "channel": "BOGUS_CHANNEL_ID",
+    "ts": "1650605980.394309"
+  },
+  "item_user": "BOGUS_USER_ID6",
+  "event_ts": "1650606379.000500"
+}

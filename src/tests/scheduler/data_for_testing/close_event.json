@@ -1,0 +1,57 @@
+{
+  "ok": true,
+  "oldest": "1668074423.161853",
+  "messages": [
+    {
+      "client_msg_id": "6384df45-4340-41dd-8688-c05f4830935c",
+      "type": "message",
+      "text": ":sos: test",
+      "user": "BOGUS_USER_ID1",
+      "ts": "1668418711.414779",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IV2Lb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "emoji",
+                  "name": "sos",
+                  "unicode": "1f198"
+                },
+                {
+                  "type": "text",
+                  "text": " test"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "BOGUS_TEAM_ID1",
+      "thread_ts": "1668418711.414779",
+      "reply_count": 5,
+      "reply_users_count": 1,
+      "latest_reply": "1668654600.472279",
+      "reply_users": [
+        "BOGUS_USER_ID4"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1668161657.798039",
+      "user": "BOGUS_USER_ID2",
+      "text": "<@BOGUS_USER_ID2> has joined the channel",
+      "inviter": "BOGUS_USER_ID3"
+    }
+  ],
+  "has_more": false,
+  "pin_count": 0,
+  "channel_actions_ts": 1654245544,
+  "channel_actions_count": 0
+}

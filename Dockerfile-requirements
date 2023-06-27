@@ -1,0 +1,18 @@
+FROM python:3.9-slim-buster
+
+ADD ./poetry.lock /opt/slacky011y_bus/poetry.lock
+ADD ./pyproject.toml /opt/slacky011y_bus/pyproject.toml
+
+WORKDIR /opt/slacky011y_bus
+
+RUN poetry config virtualenvs.create false \
+    && poetry install --no-dev --no-root -n -v
+
+WORKDIR /opt/slacky011y_bus
+
+ADD . /opt/slacky011y_bus
+
+EXPOSE 8000
+USER python-user
+
+CMD ["bash", "run.sh", "--gunicorn"]

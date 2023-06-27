@@ -1,0 +1,60 @@
+{
+  "type": "message",
+  "subtype": "message_changed",
+  "message": {
+    "type": "message",
+    "subtype": "tombstone",
+    "text": "This message was deleted.",
+    "user": "USLACKBOT",
+    "hidden": true,
+    "thread_ts": "1665646331.056009",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1665646332.303549",
+    "reply_users": [
+      "BOGUS_USER_ID6"
+    ],
+    "is_locked": false,
+    "ts": "1665646331.056009"
+  },
+  "previous_message": {
+    "client_msg_id": "7bc77c7f-c827-420d-a055-7bfc8895a8d9",
+    "type": "message",
+    "text": "test",
+    "user": "BOGUS_USER_ID6",
+    "ts": "1665646331.056009",
+    "team": "T037S7xxxxx",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zZ/L",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "test"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1665646331.056009",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1665646332.303549",
+    "reply_users": [
+      "BOGUS_USER_ID6"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1665646331.056009"
+  },
+  "channel": "BOGUS_CHANNEL_ID",
+  "hidden": true,
+  "ts": "1665646341.000300",
+  "event_ts": "1665646341.000300",
+  "channel_type": "channel"
+}

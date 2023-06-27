@@ -1,0 +1,32 @@
+{
+  "client_msg_id": "fd3312cc-9842-4025-8558-252e14f19111",
+  "type": "message",
+  "text": ":cloud-help: test",
+  "user": "BOGUS_USER_ID6",
+  "ts": "1650605980.394309",
+  "team": "T037S7xxxxx",
+  "blocks": [
+    {
+      "type": "rich_text",
+      "block_id": "X86",
+      "elements": [
+        {
+          "type": "rich_text_section",
+          "elements": [
+            {
+              "type": "emoji",
+              "name": "cloud-help"
+            },
+            {
+              "type": "text",
+              "text": " test"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "channel": "BOGUS_CHANNEL_ID",
+  "event_ts": "1650605980.394309",
+  "channel_type": "channel"
+}

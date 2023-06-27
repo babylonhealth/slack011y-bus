@@ -1,0 +1,52 @@
+{
+  "ok": true,
+  "oldest": "1668072041.024259",
+  "messages": [
+    {
+      "client_msg_id": "2ea8071e-ba4a-4687-ab69-e3eeb8fe2c95",
+      "type": "message",
+      "text": "request with thread",
+      "user": "BOGUS_USER_ID1",
+      "ts": "1668676828.814789",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5XHYM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "request with thread"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "BOGUS_TEAM_ID1",
+      "thread_ts": "1668676828.814789",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1668676830.236019",
+      "reply_users": [
+        "BOGUS_USER_ID4"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1668161657.798039",
+      "user": "BOGUS_USER_ID2",
+      "text": "<@BOGUS_USER_ID2> has joined the channel",
+      "inviter": "BOGUS_USER_ID3"
+    }
+  ],
+  "has_more": false,
+  "pin_count": 0,
+  "channel_actions_ts": 1654245544,
+  "channel_actions_count": 0
+}

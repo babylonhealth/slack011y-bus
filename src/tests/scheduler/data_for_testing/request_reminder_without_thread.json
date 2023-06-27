@@ -1,0 +1,47 @@
+{
+  "ok": true,
+  "oldest": "1668070153.553995",
+  "messages": [
+    {
+      "client_msg_id": "e68119d1-5d4c-4155-8450-18ddb0fc405e",
+      "type": "message",
+      "text": ":cloud-pr: request without thread",
+      "user": "BOGUS_USER_ID1",
+      "ts": "1668674912.885259",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dT5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "emoji",
+                  "name": "cloud-pr"
+                },
+                {
+                  "type": "text",
+                  "text": " request without thread"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "BOGUS_TEAM_ID1"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1668161657.798039",
+      "user": "BOGUS_USER_ID2",
+      "text": "<@BOGUS_USER_ID2> has joined the channel",
+      "inviter": "BOGUS_USER_ID3"
+    }
+  ],
+  "has_more": false,
+  "pin_count": 0,
+  "channel_actions_ts": 1654245544,
+  "channel_actions_count": 0
+}

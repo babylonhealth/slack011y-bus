@@ -1,0 +1,80 @@
+[tool.poetry]
+name = "slack011y-bus"
+version = "0.0.1"
+description = "Flask app for collecting slack messages"
+authors = [""]
+readme = "README.md"
+keywords = ["slack", "python", "flask"]
+license = "Apache-2.0"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Topic :: Internet :: WWW/HTTP :: WSGI :: Application",
+    "Topic :: Software Development :: Libraries :: Application Frameworks",
+    "Framework :: Flask",
+    "Natural Language :: English",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+Flask = "^2.2.5"
+requests = "^2.27.1"
+gunicorn = "^20.1.0"
+gevent = "^22.10.2"
+slackclient = "^2.9.3"
+slackeventsapi = "^3.0.1"
+slack_sdk = "^3.15.2"
+mysql-connector = "^2.2.9"
+mysql-connector-python = "^8.0.28"
+pymysql = "^1.0.2"
+flask_sqlalchemy = "^2.5.1"
+types-pytz = "^2021.3.6"
+Flask-APScheduler = "^1.12.3"
+marshmallow = "^3.17.1"
+marshmallow-dataclass = {extras = ["enum", "union"], version = "^8.5.8"}
+cron-validator = "^1.0.6"
+flask-restx = "^0.5.1"
+werkzeug = "^2.2.3"
+varname = "^0.9.1"
+sqlalchemy = "1.4.41"
+
+[tool.poetry.dev-dependencies]
+mypy = "^0.931"
+black = "^22.1.0"
+flake8 = "^4.0.1"
+isort = "^5.10.1"
+types-requests = "^2.27.11"
+types-cachetools = "^4.2.9"
+pre-commit = "^2.17.0"
+pytest = "^7.0.1"
+pytest-cov = "^3.0.0"
+pytest-mypy = "^0.9.1"
+requests-mock = "^1.9.3"
+
+[build-system]
+requires = ["poetry-core>=1.0.0", "poetry-dynamic-versioning"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.black]
+line-length = 120
+preview=true
+
+[tool.isort]
+profile = "black"
+line_length = 120
+multi_line_output = 5
+length_sort = "false"
+known_first_party = "slack011y-bus,tests"
+default_section = "THIRDPARTY"
+sections = "FUTURE,STDLIB,THIRDPARTY,FIRSTPARTY,LOCALFOLDER"
+force_single_line = "true"
+
+[tool.poetry-dynamic-versioning]
+enable = true
+vcs = "git"
+style = "pep440"

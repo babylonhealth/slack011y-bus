@@ -1,0 +1,12 @@
+{
+  "type": "reaction_added",
+  "user": "BOGUS_USER_ID6",
+  "reaction": "white_check_mark",
+  "item": {
+    "type": "message",
+    "channel": "BOGUS_CHANNEL_ID",
+    "ts": "1650606501.440009"
+  },
+  "item_user": "BOGUS_USER_ID6",
+  "event_ts": "1650606750.000800"
+}

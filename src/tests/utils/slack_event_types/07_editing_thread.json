@@ -1,0 +1,73 @@
+{
+  "type": "message",
+  "subtype": "message_changed",
+  "message": {
+    "client_msg_id": "b04c9478-0521-4db9-8010-ae355db96bb5",
+    "type": "message",
+    "text": "thread3",
+    "user": "BOGUS_USER_ID6",
+    "team": "T037S7xxxxx",
+    "edited": {
+      "user": "BOGUS_USER_ID6",
+      "ts": "1650885667.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "G0E",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thread3"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650884124.960429",
+    "parent_user_id": "BOGUS_USER_ID6",
+    "ts": "1650885451.199919",
+    "source_team": "T037S7xxxxx",
+    "user_team": "T037S7xxxxx"
+  },
+  "previous_message": {
+    "client_msg_id": "b04c9478-0521-4db9-8010-ae355db96bb5",
+    "type": "message",
+    "text": "thread2",
+    "user": "BOGUS_USER_ID6",
+    "ts": "1650885451.199919",
+    "team": "T037S7xxxxx",
+    "edited": {
+      "user": "BOGUS_USER_ID6",
+      "ts": "1650885460.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yeByt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thread2"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650884124.960429",
+    "parent_user_id": "BOGUS_USER_ID6"
+  },
+  "channel": "BOGUS_CHANNEL_ID",
+  "hidden": true,
+  "ts": "1650885667.005400",
+  "event_ts": "1650885667.005400",
+  "channel_type": "channel"
+}

@@ -1,0 +1,83 @@
+{
+  "type": "message",
+  "subtype": "message_changed",
+  "message": {
+    "client_msg_id": "4fee5e51-8706-415d-8d6e-d9a864bd7ade",
+    "type": "message",
+    "text": "monday7",
+    "user": "BOGUS_USER_ID6",
+    "team": "T037S7xxxxx",
+    "edited": {
+      "user": "BOGUS_USER_ID6",
+      "ts": "1650885025.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=z+fQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "monday7"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650885016.163529",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1650885017.128369",
+    "reply_users": [
+      "BOGUS_USER_ID6"
+    ],
+    "is_locked": false,
+    "ts": "1650885016.163529",
+    "source_team": "T037S7xxxxx",
+    "user_team": "T037S7xxxxx"
+  },
+  "previous_message": {
+    "client_msg_id": "4fee5e51-8706-415d-8d6e-d9a864bd7ade",
+    "type": "message",
+    "text": "monday6",
+    "user": "BOGUS_USER_ID6",
+    "ts": "1650885016.163529",
+    "team": "T037S7xxxxx",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YbZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "monday6"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650885016.163529",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1650885017.128369",
+    "reply_users": [
+      "BOGUS_USER_ID6"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1650885016.163529"
+  },
+  "channel": "BOGUS_CHANNEL_ID",
+  "hidden": true,
+  "ts": "1650885025.005100",
+  "event_ts": "1650885025.005100",
+  "channel_type": "channel"
+}

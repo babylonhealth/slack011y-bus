@@ -1,0 +1,141 @@
+{
+  "type": "message",
+  "subtype": "message_changed",
+  "message": {
+    "type": "message",
+    "text": ":sos:",
+    "files": [
+      {
+        "id": "BOGUS_USER_ID6",
+        "created": 1651755429,
+        "timestamp": 1651755429,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "BOGUS_USER_ID6",
+        "editable": false,
+        "size": 4354,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T037S7xxxxx-BOGUS_USER_ID6/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T037S7xxxxx-BOGUS_USER_ID6/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T037S7xxxxx-BOGUS_USER_ID6-5651788961/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T037S7xxxxx-BOGUS_USER_ID6-5651788961/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T037S7xxxxx-BOGUS_USER_ID6-5651788961/image_360.png",
+        "thumb_360_w": 199,
+        "thumb_360_h": 169,
+        "thumb_160": "https://files.slack.com/files-tmb/T037S7xxxxx-BOGUS_USER_ID6-5651788961/image_160.png",
+        "original_w": 199,
+        "original_h": 169,
+        "thumb_tiny": "AwAoADChRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAH/9k=",
+        "permalink_public": "https://slack-files.com/T037S7xxxxx-BOGUS_USER_ID6-b6e332246c",
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "BOGUS_USER_ID6",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/ryaP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "sos"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "edited": {
+      "user": "BOGUS_USER_ID6",
+      "ts": "1651755444.000000"
+    },
+    "client_msg_id": "82d8b9ef-0d17-491f-9dcd-927468de7cb1",
+    "thread_ts": "1651755433.566989",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1651755434.407079",
+    "reply_users": [
+      "BOGUS_USER_ID6"
+    ],
+    "is_locked": false,
+    "ts": "1651755433.566989",
+    "source_team": "T037S7xxxxx",
+    "user_team": "T037S7xxxxx"
+  },
+  "previous_message": {
+    "type": "message",
+    "text": "",
+    "files": [
+      {
+        "id": "BOGUS_USER_ID6",
+        "created": 1651755429,
+        "timestamp": 1651755429,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "BOGUS_USER_ID6",
+        "editable": false,
+        "size": 4354,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T037S7xxxxx-BOGUS_USER_ID6/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T037S7xxxxx-BOGUS_USER_ID6/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T037S7xxxxx-BOGUS_USER_ID6-5651788961/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T037S7xxxxx-BOGUS_USER_ID6-5651788961/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T037S7xxxxx-BOGUS_USER_ID6-5651788961/image_360.png",
+        "thumb_360_w": 199,
+        "thumb_360_h": 169,
+        "thumb_160": "https://files.slack.com/files-tmb/T037S7xxxxx-BOGUS_USER_ID6-5651788961/image_160.png",
+        "original_w": 199,
+        "original_h": 169,
+        "thumb_tiny": "AwAoADChRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAH/9k=",
+        "permalink_public": "https://slack-files.com/T037S7xxxxx-BOGUS_USER_ID6-b6e332246c",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "BOGUS_USER_ID6",
+    "display_as_bot": false,
+    "ts": "1651755433.566989",
+    "client_msg_id": "82d8b9ef-0d17-491f-9dcd-927468de7cb1",
+    "thread_ts": "1651755433.566989",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1651755434.407079",
+    "reply_users": [
+      "BOGUS_USER_ID6"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1651755433.566989"
+  },
+  "channel": "BOGUS_CHANNEL_ID",
+  "hidden": true,
+  "ts": "1651755444.006500",
+  "event_ts": "1651755444.006500",
+  "channel_type": "channel"
+}

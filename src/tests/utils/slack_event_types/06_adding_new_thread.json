@@ -1,0 +1,30 @@
+{
+  "client_msg_id": "b61b5fb9-62a5-4c16-9b9d-aa515d94990a",
+  "type": "message",
+  "text": "thread1",
+  "user": "BOGUS_USER_ID6",
+  "ts": "1650606501.440009",
+  "team": "T037S7xxxxx",
+  "blocks": [
+    {
+      "type": "rich_text",
+      "block_id": "iFIS",
+      "elements": [
+        {
+          "type": "rich_text_section",
+          "elements": [
+            {
+              "type": "text",
+              "text": "thread1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "thread_ts": "1650605980.394309",
+  "parent_user_id": "BOGUS_USER_ID6",
+  "channel": "BOGUS_CHANNEL_ID",
+  "event_ts": "1650606501.440009",
+  "channel_type": "channel"
+}

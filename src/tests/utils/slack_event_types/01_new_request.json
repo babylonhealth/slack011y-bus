@@ -1,0 +1,28 @@
+{
+  "client_msg_id": "8f1d9312-bb5d-45dc-992e-36e18d23765b",
+  "type": "message",
+  "text": "test",
+  "user": "BOGUS_USER_ID6",
+  "ts": "1650605855.111129",
+  "team": "T037S7xxxxx",
+  "blocks": [
+    {
+      "type": "rich_text",
+      "block_id": "7ko",
+      "elements": [
+        {
+          "type": "rich_text_section",
+          "elements": [
+            {
+              "type": "text",
+              "text": "test"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "channel": "BOGUS_CHANNEL_ID",
+  "event_ts": "1650605855.111129",
+  "channel_type": "channel"
+}

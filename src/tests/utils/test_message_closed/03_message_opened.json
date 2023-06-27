@@ -1,0 +1,6 @@
+{"inviter": "BOGUS_USER_ID6",
+  "subtype": "channel_join",
+  "text": "<@BOGUS_USER_ID6> has joined the channel",
+  "ts": "1652440856.946089",
+  "type": "message",
+  "user": "BOGUS_USER_ID6"}

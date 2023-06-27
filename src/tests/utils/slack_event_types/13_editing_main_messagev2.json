@@ -1,0 +1,69 @@
+{
+  "type": "message",
+  "subtype": "message_changed",
+  "message": {
+    "client_msg_id": "bced01a2-ea45-412d-8a08-5c312a7c244d",
+    "type": "message",
+    "text": ":sos:kot",
+    "user": "BOGUS_USER_ID6",
+    "team": "T037S7xxxxx",
+    "edited": {
+      "user": "BOGUS_USER_ID6",
+      "ts": "1651754740.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=0g9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "sos"
+              },
+              {
+                "type": "text",
+                "text": "kot"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "ts": "1651754732.677629",
+    "source_team": "T037S7xxxxx",
+    "user_team": "T037S7xxxxx"
+  },
+  "previous_message": {
+    "client_msg_id": "bced01a2-ea45-412d-8a08-5c312a7c244d",
+    "type": "message",
+    "text": ":sos:",
+    "user": "BOGUS_USER_ID6",
+    "ts": "1651754732.677629",
+    "team": "T037S7xxxxx",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jzHT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "sos"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "channel": "BOGUS_CHANNEL_ID",
+  "hidden": true,
+  "ts": "1651754740.005400",
+  "event_ts": "1651754740.005400",
+  "channel_type": "channel"
+}
