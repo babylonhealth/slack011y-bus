@@ -1,4 +1,4 @@
-# slack011y-bus
+# slack011y-bus 
 A tool can connect to public Slack channels for storing messages with threads and interacts with specific slack actions eg:
   * can reply for main or thread a message 
   * can create and print basic statistics 
